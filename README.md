@@ -17,7 +17,7 @@ My chatbot takes health issue and displays the specialist doctors.
  ![Block diagram](https://raw.githubusercontent.com/18pa1a05h2/MLchatbot/main/chatbotpic.png)
  
  ## Youtube video link
- ![youtube video link](https://img.youtube.com/vi/0JEXsT2LrbQ/0.jpg)](https://www.youtube.com/watch?v=0JEXsT2LrbQ)
+ [![youtube video link](https://img.youtube.com/vi/0JEXsT2LrbQ/0.jpg)](https://www.youtube.com/watch?v=0JEXsT2LrbQ)
 
 
 
